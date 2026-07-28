@@ -59,7 +59,7 @@ Request (multipart/form-data)
 
 ```bash
 git clone https://github.com/JAVM11/identity-verification.git
-cd idve-identity-verification
+cd identity-verification
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
