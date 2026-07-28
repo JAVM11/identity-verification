@@ -1,0 +1,18 @@
+# Core
+Flask==3.0.1
+PyJWT==2.13.0
+mysql-connector-python==9.7.0
+
+# Visión y Biometría
+opencv-python-headless<=4.6.0.66
+numpy==1.26.4
+mediapipe==0.10.5
+face_recognition_models @ git+https://github.com/ageitgey/face_recognition_models@e67de717267507d1e9246de95692eb8be736ab61
+
+# OCR / ML
+paddleocr==2.7.3
+paddlex==3.4.3
+qreader==3.16
+protobuf==3.20.3
+
+setuptools==75.8.0
