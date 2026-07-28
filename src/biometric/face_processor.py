@@ -1,6 +1,6 @@
 """
 Procesamiento facial: landmarks con MediaPipe y codificación 128-D
-con face_recognition. Extraído del motor productivo IDVE.
+Extraído del motor productivo.
 """
 import os
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "3"
@@ -8,8 +8,7 @@ os.environ["TF_CPP_MIN_LOG_LEVEL"] = "3"
 import cv2
 import numpy as np
 
-# Nota: en el demo estas importaciones se hacen bajo demanda
-# para no romper si no están instaladas las libs pesadas.
+# Nota: en el demo estas importaciones se hacen bajo demanda para no romper si no están instaladas las libs pesadas.
 try:
     import mediapipe as mp
     import face_recognition
