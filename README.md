@@ -50,7 +50,7 @@ Request (multipart/form-data)
 ## Instalación (modo demo)
 
 ```bash
-git clone https://github.com/JAVM11/idve-identity-verification.git
+git clone https://github.com/JAVM11/identity-verification.git
 cd idve-identity-verification
 python -m venv venv
 source venv/bin/activate
