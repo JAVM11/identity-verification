@@ -1,4 +1,12 @@
-# IDVE — Identity Verification Engine
+# Identity Verification Engine
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-API-black?logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv&logoColor=white)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-OCR%20Engine-orange)
+![Docker](https://img.shields.io/badge/Docker-GPU%20Ready-2496ED?logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Multi--tenant-4479A1?logo=mysql&logoColor=white)
+![License](https://img.shields.io/badge/License-Portfolio%20Showcase-lightgrey)
 
 > Backend de verificación de identidad biométrica 1:1 con OCR de documentos mexicanos (INE/IFE).
 
@@ -118,7 +126,11 @@ Los secrets, IPs internas y credenciales han sido removidos para mantener la seg
 
 ## Licencia
 
-Proyecto privado — código mostrado con fines de portafolio.
+Este repositorio es de acceso público con fines de portafolio técnico. 
+La versión productiva del sistema (incluyendo integraciones, credenciales 
+y lógica de negocio adicional) es privada y pertenece a su respectiva empresa.
+
+Este código no debe usarse en producción sin autorización.
 
 ---
 
